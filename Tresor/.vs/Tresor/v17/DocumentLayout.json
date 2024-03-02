@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5B8BB3-93F0-4EFF-949D-F65F23FCD02B}|Tresor\\Tresor.vcxproj|D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB5B8BB3-93F0-4EFF-949D-F65F23FCD02B}|Tresor\\Tresor.vcxproj|solutionrelative:Tresor\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor\\Source.cpp",
+              "RelativeDocumentMoniker": "Tresor\\Source.cpp",
+              "ToolTip": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor\\Source.cpp",
+              "RelativeToolTip": "Tresor\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-02T16:48:29.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

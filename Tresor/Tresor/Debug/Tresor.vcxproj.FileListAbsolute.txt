@@ -1,0 +1,5 @@
+D:\2 curs 2 sem\finiak.university.twitter\Tresor\Debug\Ijwhost.dll
+D:\2 curs 2 sem\finiak.university.twitter\Tresor\Debug\Tresor.deps.json
+D:\2 curs 2 sem\finiak.university.twitter\Tresor\Debug\Tresor.runtimeconfig.json
+D:\2 curs 2 sem\finiak.university.twitter\Tresor\Tresor\Debug\Tresor.sourcelink.json
+D:\2 curs 2 sem\finiak.university.twitter\Tresor\Tresor\Debug\Tresor.genruntimeconfig.cache
