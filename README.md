@@ -8,20 +8,25 @@ https://t.me/Fiiniikk
 ---------------------------------------------------------------------------
 
 Getting started
-Project name: Tresor
+Project name: Tresor (Twitter clone)
 ---------------------------------------------------------------------------
 
-Project documentation
-.....................
+Project documentation & guides
+Gitlab: https://gitlab.com/Oleg243/finiak.university.twitter/-/tree/main
+Google OAuth: https://github.com/Palindromer/OAuthTutorial/tree/master?tab=readme-ov-file
+Google cloud: https://console.cloud.google.com/apis/credentials?project=tresor-416113
+Microsoft Azure: https://portal.azure.com/?Microsoft_Azure_Education_correlationId=ed80e44a-2105-4e8f-9174-a2d9e6dfd987&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=0a5c4641-bca3-4ce0-bfd3-955fa3c11d52#home
+Azure DevOps: https://dev.azure.com/olehfiniak/_usersSettings/tokens
+CI/CD: https://habr.com/ru/articles/498436/
 ---------------------------------------------------------------------------
 
 Project Task Decomposition
 Week 1:
-- Implement feature: User Registration with Google OAuth 2.0.
++ Implement feature: User Registration with Google OAuth 2.0.
 + Set up Azure deployment environment.
-- Create initial project structure on Github repository.
-- Write basic documentation for getting started locally.
-- Set up Continuous Integration/Continuous Delivery pipeline.
++ Create initial project structure on Github repository.
++ Write basic documentation for getting started locally.
++- Set up Continuous Integration/Continuous Delivery pipeline.
 
 Week 2:
 - Implement feature: Profile Management.

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YiSNvlGIomyz8xri/q3iaxsJr+WckjR4iSRenYpX7UIPUQUvIgAGUHupH0+CuMBiLfpGY4Zm6KDdgFXScAF6PQ==",
+  "dgSpecHash": "Eqzyvh4IwuvneIhCUcSxp8W2jYxCmAEblpKR1M/zfrkpMvK+BKKVR4fMOjQ+uaanklosjySAhh+xRPCd1xLE/Q==",
   "success": true,
-  "projectFilePath": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor\\Tresor.vcxproj",
+  "projectFilePath": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor\\Tresor.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Олег\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+    "C:\\Users\\Олег\\.nuget\\packages\\identitymodel\\6.2.0\\identitymodel.6.2.0.nupkg.sha512",
+    "C:\\Users\\Олег\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
