@@ -30,7 +30,7 @@
 
 ### Week 2:
 #### ❌ Implement feature: Profile Management.
-#### ❌ Configure Azure services for project deployment.
+#### ✔️ Configure Azure services for project deployment.
 #### ❌ Begin documenting project architecture and infrastructure.
 #### ❌ Conduct unit tests for user registration functionality.
 #### ❌ Refine CI/CD pipeline for automated deployments.
