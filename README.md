@@ -23,9 +23,9 @@
 # Project Task Decomposition
 ### Week 1:
 - [ ] Implement feature: User Registration with Google OAuth 2.0.
-- [x] Set up Azure deployment environment.
-- [x] Create initial project structure on Github repository.
-- [x] Write basic documentation for getting started locally.
+- ✔️ Set up Azure deployment environment.
+- ✔️ Create initial project structure on Github repository.
+- ✔️ Write basic documentation for getting started locally.
 - [ ] Set up Continuous Integration/Continuous Delivery pipeline.
 
 ### Week 2:
