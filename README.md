@@ -13,7 +13,7 @@
 ---------------------------------------------------------------------------
 
 # Project documentation & guides
-#### [Google OAuth]([https://github.com/Palindromer/OAuthTutorial/tree/master?tab=readme-ov-file](https://learn.microsoft.com/uk-ua/aspnet/core/security/authentication/social/google-logins?view=aspnetcore-8.0))
+#### [Google OAuth]([https://github.com/Palindromer/OAuthTutorial/tree/master?tab=readme-ov-file](https://learn.microsoft.com/uk-ua/aspnet/core/security/authentication/social/google-logins?view=aspnetcore-8.0)
 #### [Google cloud](https://console.cloud.google.com/apis/credentials?project=tresor-416113)
 #### [Microsoft Azure](https://portal.azure.com/?Microsoft_Azure_Education_correlationId=ed80e44a-2105-4e8f-9174-a2d9e6dfd987&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=0a5c4641-bca3-4ce0-bfd3-955fa3c11d52#home)
 #### [Azure DevOps](https://dev.azure.com/olehfiniak/_usersSettings/tokens)
