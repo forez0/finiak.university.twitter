@@ -20,6 +20,23 @@
 
 ---------------------------------------------------------------------------
 
+# Project architecture and infrastructure
+### Development environment:
+- Microsoft Visual Studio
+- Microsoft Azure
+
+### Program structure
+- Log in/Registration page (Feature: User Registration with Google OAuth 2.0.)
+- Home page (Feature: Tweeting functionality)
+- Profile page (1. Feature: Profile Management, 2. Feature: Timeline display, 3. Feature: Retweeting and Liking, 4. Feature: Replying to tweets)
+- Notifications page (Feature: Notifications)
+- Trends page (1. Feature: Hashtags and Trends 2. Feature: Search Functionality)
+- Direct page (Feature: Direct Messaging)
+- Bookmarks page (Feature: Bookmarking)
+- Settings page (Feature: Settings and Preferences)
+
+---------------------------------------------------------------------------
+
 # Project Task Decomposition
 ### Week 1:
 #### ❌ Implement feature: User Registration with Google OAuth 2.0.
@@ -31,7 +48,7 @@
 ### Week 2:
 #### ❌ Implement feature: Profile Management.
 #### ✔️ Configure Azure services for project deployment.
-#### ❌ Begin documenting project architecture and infrastructure.
+#### ✔️ Begin documenting project architecture and infrastructure.
 #### ❌ Conduct unit tests for user registration functionality.
 #### ✔️ Refine CI/CD pipeline for automated deployments.
 
