@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tresor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52290f379ce12b24922d2688bde48b5b6841a60d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36c1f7497a14fd1a982f25b2798ae5d55e3a62be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tresor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tresor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

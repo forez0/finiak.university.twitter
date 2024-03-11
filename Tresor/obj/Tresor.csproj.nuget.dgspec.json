@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor\\Tresor.csproj": {}
+    "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor.csproj": {}
   },
   "projects": {
-    "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor\\Tresor.csproj": {
+    "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor\\Tresor.csproj",
+        "projectUniqueName": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor.csproj",
         "projectName": "Tresor",
-        "projectPath": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor\\Tresor.csproj",
+        "projectPath": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor.csproj",
         "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
-        "outputPath": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Tresor\\obj\\",
+        "outputPath": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Олег\\AppData\\Roaming\\NuGet\\NuGet.Config",
