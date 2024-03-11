@@ -26,14 +26,14 @@
 #### ✔️ Set up Azure deployment environment.
 #### ✔️ Create initial project structure on Github repository.
 #### ✔️ Write basic documentation for getting started locally.
-#### ❌ Set up Continuous Integration/Continuous Delivery pipeline.
+#### ✔️ Set up Continuous Integration/Continuous Delivery pipeline.
 
 ### Week 2:
 #### ❌ Implement feature: Profile Management.
 #### ✔️ Configure Azure services for project deployment.
 #### ❌ Begin documenting project architecture and infrastructure.
 #### ❌ Conduct unit tests for user registration functionality.
-#### ❌ Refine CI/CD pipeline for automated deployments.
+#### ✔️ Refine CI/CD pipeline for automated deployments.
 
 ### Week 3:
 #### ❌ Implement feature: Tweeting functionality.
