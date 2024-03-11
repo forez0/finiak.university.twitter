@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\2 curs 2 sem\\finiak.university.twitter\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB2B980-047B-4AC7-877B-9F6A34D93613}|Tresor\\Tresor.csproj|d:\\2 curs 2 sem\\finiak.university.twitter\\tresor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB2B980-047B-4AC7-877B-9F6A34D93613}|Tresor\\Tresor.csproj|solutionrelative:tresor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB2B980-047B-4AC7-877B-9F6A34D93613}|Tresor\\Tresor.csproj|d:\\2 curs 2 sem\\finiak.university.twitter\\tresor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BB2B980-047B-4AC7-877B-9F6A34D93613}|Tresor\\Tresor.csproj|solutionrelative:tresor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Program.cs",
+              "RelativeDocumentMoniker": "Tresor\\Program.cs",
+              "ToolTip": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Program.cs",
+              "RelativeToolTip": "Tresor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:27:04.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tresor\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\2 curs 2 sem\\finiak.university.twitter\\Tresor\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Tresor\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T21:26:21.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

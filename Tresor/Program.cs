@@ -2,7 +2,13 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-
+var services = builder.Services;
+var configuration = builder.Configuration;
+services.AddAuthentication().AddGoogle(googleOptions =>
+{
+    googleOptions.ClientId = configuration["Authentication:Google:ClientId"];
+    googleOptions.ClientSecret = configuration["Authentication:Google:ClientSecret"];
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -23,3 +29,22 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
+
+//var builder = WebApplication.CreateBuilder(args);
+//var movieApiKey = builder.Configuration["Movies:ServiceApiKey"];
+
+//var app = builder.Build();
+
+//app.MapGet("/", () => movieApiKey);
+
+//app.Run();
+//var builder = WebApplication.CreateBuilder(args);
+//var services = builder.Services;
+//var configuration = builder.Configuration;
+
+//services.AddAuthentication().AddGoogle(googleOptions =>
+//{
+//    googleOptions.ClientId = configuration["Authentication:Google:ClientId"];
+//    googleOptions.ClientSecret = configuration["Authentication:Google:ClientSecret"];
+//});
