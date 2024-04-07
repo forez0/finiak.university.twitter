@@ -25,8 +25,11 @@
 
 # Project architecture and infrastructure
 ### Development environment:
-- Microsoft Visual Studio
+- Microsoft Visual Studio Code
 - Microsoft Azure
+- SSMS 20
+- React (frontend) + NodeJS (backend)
+- ![image](https://github.com/Finiik/finiak.university.twitter/assets/115735330/dcd07e7e-b284-412b-a1d2-e884f56baf88)
 
 ### Program structure
 - Log in/Registration page (Feature: User Registration with Google OAuth 2.0.)
@@ -117,7 +120,7 @@ Link to github, where source code is stored
 ### Week 2:
 #### ❌ Implement feature: Profile Management.
 #### ✔️ Configure Azure services for project deployment.
-#### ❌ Begin documenting project architecture and infrastructure.
+#### ✔️ Begin documenting project architecture and infrastructure.
 #### ❌ Conduct unit tests for user registration functionality.
 #### ✔️ Refine CI/CD pipeline for automated deployments.
 
