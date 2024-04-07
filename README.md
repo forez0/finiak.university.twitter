@@ -18,6 +18,8 @@
 #### [Microsoft Azure](https://portal.azure.com/?Microsoft_Azure_Education_correlationId=ed80e44a-2105-4e8f-9174-a2d9e6dfd987&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=0a5c4641-bca3-4ce0-bfd3-955fa3c11d52#home)
 #### [Azure DevOps](https://dev.azure.com/olehfiniak/_usersSettings/tokens)
 
+## Lections
+####
 ---------------------------------------------------------------------------
 
 # Project architecture and infrastructure
@@ -59,7 +61,48 @@
 15. Getting started documentation (step by step guide on how to run the project locally).
 16. Project documentation (architecture diagram, infrastructure diagram).
 17. Live Project tasks decomposition (list of tasks for each week, should be updated every time you complete a task, completed tasks should be marked with ✔️).
-    
+18. Documentation must contain:
+Name
+Surname
+Email of the student
+Link to Telegram
+Name of the Project
+Project Description
+Link to deployed project
+19. Every project must contain About page with:
+Name and Surname of the student
+Name of the Project
+Link to Telegram
+Email of the student
+Link to github, where source code is stored
+
+### Testing:
+20. Postman collection for testing the project (must contain all endpoints, which should be executable, auth must be configured).
+21. Services must be covered with Unit Tests, test coverage should be at least 30%.
+22. You need data in your project to develop, test and present, so you must write a script that would generate data for you. There must be at least 100 users with 20 content pieces each, or similar, depending on the project type and data structure. Your website must be full of data in order to present correctly and show that everything is working.
+### Presentation:
+- Module 1 project progress presentation
+- Module 2 project progress presentation
+- Final project presentation (Exam)
+
+### How to present:
+- make a PowerPoint presentation
+- talk about the project, what are the key features
+- show Github Readme.md
+- show diagrams
+- show task decomposition
+- talk through chosen infrastructure on Azure
+- provide a list of completed tasks
+- show live demo of the project (must be deployed to Azure)
+- show code, answer questions
+
+### Project Technical Document Requirements:
+- Name, Description of the project (minimum 3 sentences)
+- List of 12 application features or user stories (this should be purely application features, not related to any technologies, practices, documentation, deployments or testing)
+- 12 weeks worth of tasks, each week containing at least 5 tasks
+- Every week a new feature from feature list must be implemented
+- It is not recommended to include Artificial Intelligence, Augmented Reality, User Acceptance Testing, Performance Testing, Cross-Platform Support, Accessibility features, Payment System Integration or Multiple Authentication Methods in the project features or tasks
+  
 ---------------------------------------------------------------------------
 # Project Task Decomposition
 ### Week 1:
