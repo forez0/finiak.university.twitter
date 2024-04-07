@@ -36,6 +36,15 @@ button:hover{
   border:2px solid white;
 }
 
+.Google-logo{
+  height:4vmin;
+}
+
+.row-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 
 /* .App {

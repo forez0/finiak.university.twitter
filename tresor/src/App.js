@@ -2,6 +2,7 @@ import logo from './TresorLogo.png';
 import './App.css';
 import { GoogleLogin } from '@react-oauth/google';
 import { jwtDecode } from "jwt-decode"
+import  google  from './misc/Google_icon.png'
 import {useGoogleLogin} from '@react-oauth/google';
 import axios from "axios"
 function App() {
@@ -31,9 +32,10 @@ function App() {
           Tresor
         </p>
 
-        <button onClick={login}>
+        <button onClick={login} className="row-button">
+        <img src={google} className="Google-logo" alt="Google Logo" />
                     <i class="fa-brands fa-google"></i>
-                    Continue with google
+                    Continue with Google
                 </button>
         {/* <GoogleLogin className="Google"
   onSuccess={credentialResponse => {
