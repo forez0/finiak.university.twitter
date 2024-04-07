@@ -34,9 +34,33 @@
 - Direct page (Feature: Direct Messaging)
 - Bookmarks page (Feature: Bookmarking)
 - Settings page (Feature: Settings and Preferences)
-✔️❌
----------------------------------------------------------------------------
 
+---------------------------------------------------------------------------
+# Project Requirements
+### Technical:
+1. Implementation of Swagger UI or alternative suite of API tools, which must be accessible as a web page.
+2. Authorization with Google account or Azure Active Directory (OAuth 2.0).
+3. Integration with any SQL database, which must be hosted in the cloud (like MSSQL on Azure).
+4. Usage of Object Relational Mapper, like Entity Framework. 
+5. The application must adhere to the clean code principles and best practices, defined by the framework developer (for .NET - Microsoft).
+6. 95% of code must use services approach and Dependency Injection.
+7. Integration with an open API (like one from https://github.com/public-apis/public-apis).
+8. Integration with any additional Azure service (like Storage Account or Service Bus).
+9. After successful registration or first sign in with Google Account a user should get a welcome message on his email.
+10. Integration with Azure Monitor to collect logs and monitor the application
+
+### Development and deployment:
+11. Project must be fully deployed and run in Azure.
+12. All code must be stored in a publically open repository on Github (any other website is NOT allowed).
+13. Code must be up to date in the repository (wrote it today, push it today).
+14. The project must make use of Continuous Integration/Continuous delivery.
+
+### Documentation (must be stored in Readme.md file on Github):
+15. Getting started documentation (step by step guide on how to run the project locally).
+16. Project documentation (architecture diagram, infrastructure diagram).
+17. Live Project tasks decomposition (list of tasks for each week, should be updated every time you complete a task, completed tasks should be marked with ✔️).
+    
+---------------------------------------------------------------------------
 # Project Task Decomposition
 ### Week 1:
 #### ❌ Implement feature: User Registration with Google OAuth 2.0.
