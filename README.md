@@ -10,6 +10,8 @@
 # Getting started
 #### Project name: #49 Tresor (Twitter clone)
 #### To start project - write in Terminal "npm start"
+#### Install: npm i react // npm install @react-oauth/google@latest // npm i jwt-decode // npm i axios // npm i -D react-router-dom@latest
+
 
 ---------------------------------------------------------------------------
 
