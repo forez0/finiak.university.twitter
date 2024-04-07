@@ -18,8 +18,6 @@
 #### [Microsoft Azure](https://portal.azure.com/?Microsoft_Azure_Education_correlationId=ed80e44a-2105-4e8f-9174-a2d9e6dfd987&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=0a5c4641-bca3-4ce0-bfd3-955fa3c11d52#home)
 #### [Azure DevOps](https://dev.azure.com/olehfiniak/_usersSettings/tokens)
 
-## Lections
-####
 ---------------------------------------------------------------------------
 
 # Project architecture and infrastructure
