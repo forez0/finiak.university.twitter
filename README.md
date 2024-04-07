@@ -106,7 +106,7 @@ Link to github, where source code is stored
 ---------------------------------------------------------------------------
 # Project Task Decomposition
 ### Week 1:
-#### ❌ Implement feature: User Registration with Google OAuth 2.0.
+#### ✔️ Implement feature: User Registration with Google OAuth 2.0.
 #### ✔️ Set up Azure deployment environment.
 #### ✔️ Create initial project structure on Github repository.
 #### ✔️ Write basic documentation for getting started locally.
