@@ -1,6 +1,7 @@
-import logo from './Logo.png';
+import logo from './TresorLogo.png';
 import './App.css';
 import { GoogleLogin } from '@react-oauth/google';
+import { jwtDecode } from "jwt-decode"
 
 function App() {
   return (
@@ -13,16 +14,18 @@ function App() {
         <span>
         <GoogleLogin
   onSuccess={credentialResponse => {
-    console.log(credentialResponse);
+    const decoded = jwtDecode(credentialResponse.credential);
+    console.log(decoded);
   }}
   onError={() => {
     console.log('Login Failed');
   }}
-/></span>
-        
+  auto_select
+/>
+</span> 
       </header>
     </div>
-  );
+  )
 }
 
 export default App;
