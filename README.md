@@ -9,11 +9,12 @@
 
 # Getting started
 #### Project name: #49 Tresor (Twitter clone)
+#### To start project - write in Terminal "npm start"
 
 ---------------------------------------------------------------------------
 
 # Project documentation & guides
-#### [Google OAuth](https://learn.microsoft.com/uk-ua/aspnet/core/security/authentication/social/google-logins?view=aspnetcore-8.0)
+#### [Google OAuth](https://www.npmjs.com/package/@react-oauth/google)
 #### [Google cloud](https://console.cloud.google.com/apis/credentials?project=tresor-416113)
 #### [Microsoft Azure](https://portal.azure.com/?Microsoft_Azure_Education_correlationId=ed80e44a-2105-4e8f-9174-a2d9e6dfd987&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=0a5c4641-bca3-4ce0-bfd3-955fa3c11d52#home)
 #### [Azure DevOps](https://dev.azure.com/olehfiniak/_usersSettings/tokens)
@@ -34,6 +35,7 @@
 - Direct page (Feature: Direct Messaging)
 - Bookmarks page (Feature: Bookmarking)
 - Settings page (Feature: Settings and Preferences)
+- About page (Name and Surname of the student, Name of the Project, Link to Telegram, Email of the student, Link to github, where source code is stored)
 
 ---------------------------------------------------------------------------
 # Project Requirements
@@ -105,17 +107,17 @@ Link to github, where source code is stored
 # Project Task Decomposition
 ### Week 1:
 #### ❌ Implement feature: User Registration with Google OAuth 2.0.
-#### ❌ Set up Azure deployment environment.
-#### ❌ Create initial project structure on Github repository.
-#### ❌ Write basic documentation for getting started locally.
-#### ❌ Set up Continuous Integration/Continuous Delivery pipeline.
+#### ✔️ Set up Azure deployment environment.
+#### ✔️ Create initial project structure on Github repository.
+#### ✔️ Write basic documentation for getting started locally.
+#### ✔️ Set up Continuous Integration/Continuous Delivery pipeline.
 
 ### Week 2:
 #### ❌ Implement feature: Profile Management.
-#### ❌ Configure Azure services for project deployment.
+#### ✔️ Configure Azure services for project deployment.
 #### ❌ Begin documenting project architecture and infrastructure.
 #### ❌ Conduct unit tests for user registration functionality.
-#### ❌ Refine CI/CD pipeline for automated deployments.
+#### ✔️ Refine CI/CD pipeline for automated deployments.
 
 ### Week 3:
 #### ❌ Implement feature: Tweeting functionality.
