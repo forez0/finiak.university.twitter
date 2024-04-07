@@ -1,4 +1,44 @@
-.App {
+
+.App-header{
+  background: linear-gradient(to right, #5A48A3, #E5773D);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.App-logo{
+  padding-top: 10%;
+  height: 40vmin;
+  pointer-events: none;
+  
+}
+
+.Text {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 500%;
+  margin: 2%;
+}
+
+button{
+  background-color: #00f0ac;
+  padding:25px;
+  border-radius: .9rem;
+  color:black;
+  border:black;
+  border-color: black ;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 150%;
+}
+
+button:hover{
+  border:2px solid white;
+}
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -14,7 +54,7 @@
 }
 
 .App-header {
-  background-color: #BCB2A7;
+  background: linear-gradient(to right, #5A48A3, #E5773D);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -27,4 +67,4 @@
 .App-link {
   color: #61dafb;
 }
-
+ */
