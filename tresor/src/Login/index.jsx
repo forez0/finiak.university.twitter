@@ -23,7 +23,6 @@ function Login() {
     }
   });
 
-  // test comment
   return (
     <div className="Login">
       <header className="Login-header">
