@@ -14,8 +14,7 @@ function Login() {
             const res = await axios.get("https://www.googleapis.com/oauth2/v3/userinfo", {
                 headers: {
                     "Authorization": `Bearer ${respose.access_token}`
-                },
-                mode: "no-cors"
+                }
             })
             console.log(res.data)
         } catch (err) {
@@ -23,6 +22,8 @@ function Login() {
         }
     }
   });
+
+  // test comment
   return (
     <div className="Login">
       <header className="Login-header">
@@ -37,7 +38,7 @@ function Login() {
                     Continue with Google
                 </button>
         {/* <GoogleLogin className="Google"
-  onSuccess={credentialResponse => {
+    onSuccess={credentialResponse => {
     const decoded = jwtDecode(credentialResponse.credential);
     console.log(decoded);
   }}
