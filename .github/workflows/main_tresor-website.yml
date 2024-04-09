@@ -25,6 +25,7 @@ jobs:
         run: |
           npm install
           cd tresor
+          npm install
           npm run build
       
       - name: Upload artifact for deployment job
