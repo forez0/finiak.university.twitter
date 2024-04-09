@@ -14,7 +14,8 @@ function Login() {
             const res = await axios.get("https://www.googleapis.com/oauth2/v3/userinfo", {
                 headers: {
                     "Authorization": `Bearer ${respose.access_token}`
-                }
+                },
+                mode: "no-cors"
             })
             console.log(res.data)
         } catch (err) {
