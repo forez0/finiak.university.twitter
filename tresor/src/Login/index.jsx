@@ -2,8 +2,6 @@ import logo from '../TresorLogo.png';
 import React from "react";
 import { useNavigate } from "react-router-dom"
 import './Login.css';
-import { GoogleLogin } from '@react-oauth/google';
-import { jwtDecode } from "jwt-decode"
 import  google  from '../misc/Google_icon.png'
 import {useGoogleLogin} from '@react-oauth/google';
 import axios from "axios"
