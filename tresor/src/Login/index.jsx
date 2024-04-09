@@ -1,5 +1,6 @@
 import logo from '../TresorLogo.png';
 import React from "react";
+import { useNavigate } from "react-router-dom"
 import './Login.css';
 import { GoogleLogin } from '@react-oauth/google';
 import { jwtDecode } from "jwt-decode"
@@ -8,6 +9,7 @@ import {useGoogleLogin} from '@react-oauth/google';
 import axios from "axios"
 
 function Login() {
+  const navigate = useNavigate();
   const login = useGoogleLogin({
     onSuccess: async respose => {
         try {
@@ -16,7 +18,8 @@ function Login() {
                     "Authorization": `Bearer ${respose.access_token}`
                 }
             })
-            console.log(res.data)
+            console.log(res.data);
+            navigate("/Home");
         } catch (err) {
             console.log(err)
         }
