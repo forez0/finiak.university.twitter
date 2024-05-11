@@ -20,7 +20,6 @@ export default {
           primary: "rgb(90, 72, 163)",
           secondary: "rgb(229, 119, 61)",
           accent: "rgb(236, 227,202)",
-          info: "rgb (217,215)"
         }
       }
     ]
