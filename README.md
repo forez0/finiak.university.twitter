@@ -102,7 +102,7 @@ Week 12:
 - Perform final acceptance testing on Azure deployment.
 
 ---------------------------------------------------------------------------
-Anti-lab 2
+#Anti-lab 2
 - Nemyrka Denys
 - https://github.com/forez0/Nemyrka.University.Booking
 - https://github.com/forez0/finiak.university.twitter/pull/1
