@@ -100,3 +100,8 @@ Week 12:
 - Update README with project conclusion and acknowledgments.
 - Conduct unit tests for bookmarking functionality.
 - Perform final acceptance testing on Azure deployment.
+
+
+###Anti-lab 2
+Nemyrka Denys
+https://github.com/forez0/Nemyrka.University.Booking
